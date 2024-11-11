@@ -1,5 +1,9 @@
-## Hi there 👋
+## CHA EUN HO 🌱
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaeunho1227%2Fhit-counter&count_bg=%23296CDC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeunho1227&count_private=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeunho02)](https://solved.ac/chaeunho02/)
 <!--
 **chaeunho1227/chaeunho1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
